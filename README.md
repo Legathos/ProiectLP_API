@@ -22,6 +22,7 @@ This python program downloads a json file from a github repository (given the pa
 and creates a Flask app that is hosted on a local development server.
 
 Functionality:
+
       http:/localhost/ -> returns the ful json file 
       
       http:/localhost/cauta/title/word -> returns a list of all titles containing "word"
